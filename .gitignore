@@ -1,0 +1,4 @@
+node_modules
+dist
+
+# .env //just for assessment purpose
